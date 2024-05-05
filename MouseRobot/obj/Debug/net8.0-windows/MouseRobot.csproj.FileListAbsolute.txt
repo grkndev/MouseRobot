@@ -1,0 +1,16 @@
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\bin\Debug\net8.0-windows\MouseRobot.exe
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\bin\Debug\net8.0-windows\MouseRobot.deps.json
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\bin\Debug\net8.0-windows\MouseRobot.runtimeconfig.json
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\bin\Debug\net8.0-windows\MouseRobot.dll
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\bin\Debug\net8.0-windows\MouseRobot.pdb
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.Form1.resources
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.csproj.GenerateResource.cache
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.AssemblyInfoInputs.cache
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.AssemblyInfo.cs
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.dll
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\refint\MouseRobot.dll
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.pdb
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\MouseRobot.genruntimeconfig.cache
+C:\Users\gurka\source\repos\MouseRobot\MouseRobot\obj\Debug\net8.0-windows\ref\MouseRobot.dll
